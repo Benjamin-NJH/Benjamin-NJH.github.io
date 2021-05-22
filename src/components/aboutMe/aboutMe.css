@@ -1,0 +1,8 @@
+/* #about {
+    polygon(top(x,y), left(x,y), bottom(x,y), right(x,y))
+    clip-path: polygon(0 0, 100% 0, 100% 92%, 0 100%);
+} */
+
+/* #about > div > div {
+    background: linear-gradient(135deg, #fcff5e 0%, #3460db 100%);
+} */
