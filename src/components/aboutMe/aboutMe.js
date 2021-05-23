@@ -22,8 +22,10 @@ const aboutMe = () => {
                     I am a self-driven, self-taught person and a generalist who constantly seeks to improve my craft.
                   </p>
                   <p className="f5 ma1 pa2">
-                    I have been doing operations accounting in the last 5 years and have experience in managing accounts payables and 
-                    receivables. In the course of work experience, I have consistently achieved targeted levels of processing 
+                    I began my career in a tourism organization where I worked as an operations coordinator for 3 years and supported backend 
+                    activities for a large operations team. In the last 5 years, I have been doing operations accounting and have experience 
+                    in managing both accounts payables and receivables. 
+                    In the course of work experience, I have consistently achieved targeted levels of processing 
                     transactions, maintained constant accuracy in month-end reconciliations and journals postings, and 
                     collaborated with cross-functional stakeholders to develop informative financial dashboards. Aside with a good 
                     track record, I have also contributed to various process efficiencies projects and achieved
