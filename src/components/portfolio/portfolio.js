@@ -13,7 +13,7 @@ const portfolio = () => {
               <div className=" w-60-ns pa3 flex items-center">
                 <div className="flex flex-column">
                   <p className="calisto f4 tl-ns v-mid mv0 pa2">
-                    Robotics Process Automation, or RPA for short is getting more and more popular recently. <br />
+                    <strong>Robotics Process Automation</strong>, or RPA for short is getting more and more popular recently. <br />
                     Simply put, RPA are software tools that can be use to design and develop digital bots. These bots
                     can perform routinous, high volume and non-judgemental activities at amazing speeds, leveraging 
                     heavy lifting processes and at greater efficiencies.
