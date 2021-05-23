@@ -31,7 +31,7 @@ const aboutMe = () => {
                   </p>
                   <p className="f5 ma1 pa2">
                     My goal is to continue to upskill my competencies over the next few years in areas of finance and digital technology.
-                    I do this by habitual reading and striving to nurture a learning environment.
+                    I do this by habitual reading and strive to nurture a learning environment.
                   </p>
                   <p className="f5 ma1 pa2">
                     Outside of my day job, I continue learning and exploring new digital technologies. <br />

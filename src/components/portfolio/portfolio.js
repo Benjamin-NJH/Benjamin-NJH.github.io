@@ -23,8 +23,8 @@ const portfolio = () => {
                     an invoice web form by referring to a list of records from an Excel spreadsheet. 
                     I used an invoice as an example but we can apply RPA on any web form or desktop application.
                     Above all, we can use RPA to perform many other activities and to name a few: 
-                    scraping information from the web, scraping data from pdf and using OCR (Optical Character Recognition)
-                    to read scanned documents. 
+                    scraping information from the web, scraping data from pdf files and using OCR 
+                    (Optical Character Recognition) to read scanned documents. 
                   </p>
                 </div>
               </div>
