@@ -17,8 +17,8 @@ const aboutMe = () => {
                   <hr className="w-40 ml2 mr0 mv0"></hr>
                   <p className="bodoni f3 tl mt0 ml0 mb2 mr0 pa2">I'm Benjamin</p>
                   <p className="f5 ma1 pa2">
-                    I create digital contents as a hobby, mainly excel and automation. <br /> 
                     I graduated with a Bachelor degree in Business Accoutancy (distinction) and also had a diploma in Digital Media. <br />
+                    I create digital contents as a hobby, mainly excel and automation. <br /> 
                     I am a self-driven, self-taught person and a generalist who constantly seeks to improve my craft.
                   </p>
                   <p className="f5 ma1 pa2">
@@ -37,7 +37,7 @@ const aboutMe = () => {
                   </p>
                   <p className="f5 ma1 pa2">
                     Outside of my day job, I continue learning and exploring new digital technologies. <br />
-                    The following are my key <strong>skills and competencies</strong>:
+                    The following softwares are my key <strong>skills and competencies</strong>:
                     <ol>
                       <li>SAP ERP, Quickbooks, Microsoft Excel, PowerPoint, Word, Outlook, SharePoint, Visio</li>
                       <li>Tableau and Power BI</li>
