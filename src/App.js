@@ -50,7 +50,7 @@ class App extends Component {
 
         <footer className="dib w-100 h-25 white-90 bg-navy pa3">
           <div className="flex flex-column items-center justify-center">
-            <p className="f3-ns fw5 tc ma1">For enquiries: </p>
+            <p className="f3-ns fw5 tc ma1">Contact Me: </p>
             <a className="f1 no-underline grow-large" href="mailto:ushiojun@gmail.com">📧</a>
             <hr className="w-40-ns mv0"></hr>
             <p className="fw3 tc mt2">Website developed by Benjamin Ng</p>
