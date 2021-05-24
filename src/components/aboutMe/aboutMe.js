@@ -23,13 +23,13 @@ const aboutMe = () => {
                   </p>
                   <p className="f5 ma1 pa2">
                     I began my career in a tourism organization where I worked as an operations coordinator for 3 years and supported backend 
-                    activities for a large operations team. In the last 5 years, I have been doing operations accounting and have experience 
+                    activities for a large operation team. In the last 5 years, I have been doing operations accounting and have experience 
                     in managing both accounts payables and receivables. 
                     In the course of work experience, I have consistently achieved targeted levels of processing 
                     transactions, maintained constant accuracy in month-end reconciliations and journals postings, and 
                     collaborated with cross-functional stakeholders to develop informative financial dashboards. Aside with a good 
                     track record, I have also contributed to various process efficiencies projects and achieved
-                    positive outcomes and favourable responses from our stakeholders.
+                    positive outcomes and favourable responses from my stakeholders.
                   </p>
                   <p className="f5 ma1 pa2">
                     My goal is to continue to upskill my competencies over the next few years in areas of finance and digital technology.
