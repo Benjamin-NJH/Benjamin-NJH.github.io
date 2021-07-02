@@ -57,9 +57,9 @@ const aboutMe = () => {
               <div className=" w-40-l pa3">
                 <div className="flex flex-wrap items-center h-100">
                   <img className="w5 grow-large shadow-5 br3 ma4" src={myPic2} alt="me"></img>
-                  <img className="w5 grow-large shadow-5 br3 ma4" src={myPic1} alt="me"></img>
+                  {/* <img className="w5 grow-large shadow-5 br3 ma4" src={myPic1} alt="me"></img> */}
                   <img className="w5 grow-large shadow-5 br3 ma4" src={myPic3} alt="me"></img>
-                  <img className="w5 grow-large shadow-5 br3 ma4" src={myPic4} alt="me"></img>
+                  {/* <img className="w5 grow-large shadow-5 br3 ma4" src={myPic4} alt="me"></img> */}
                 </div>
               </div>
               
