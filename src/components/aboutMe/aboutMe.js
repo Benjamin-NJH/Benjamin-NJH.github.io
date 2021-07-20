@@ -17,26 +17,24 @@ const aboutMe = () => {
                   <hr className="w-40 ml2 mr0 mv0"></hr>
                   <p className="bodoni f3 tl mt0 ml0 mb2 mr0 pa2">I'm Benjamin</p>
                   <p className="f5 ma1 pa2">
-                    I graduated with a Bachelor degree in Business Accoutancy (distinction) and had a diploma in Digital Media. <br />
+                    I hold a Bachelor degree in Business Accoutancy and a diploma in Digital Media. <br />
                     I create digital contents as a hobby, mainly working with Excel and automation programs. <br /> 
                     I am a self-taught person and a generalist who constantly seeks to improve my craft.
                   </p>
                   <p className="f5 ma1 pa2">
-                    I began my career in a tourism organization where I worked as an operations coordinator for 3 years and supported backend 
-                    activities for a large operation team. In the last 5 years, I have been doing operations accounting and have experience 
-                    in managing both accounts payables and receivables. 
-                    In the course of work experience, I have consistently achieved targeted levels of processing 
-                    transactions, maintained timely and accurate month-end reconciliations and journals postings, and 
-                    collaborated with cross-functional stakeholders to develop informative financial dashboards. 
+                    I began my career in a tourism organization where I worked as an operations coordinator for 3 years.
+                    In the last 5 years, I have been doing operations accounting and have work experience 
+                    in managing the function of both accounts payables and receivables.
+                    In the course of work, I have a good track record in processing transactions, 
+                    investigating complex issues, and preparing timely and accurate reports. 
                     I have also contributed to various process efficiencies projects and achieved
                     positive outcomes and favourable responses from my stakeholders.
                   </p>
                   <p className="f5 ma1 pa2">
-                    My goal is to continue to upskill my competencies over the next few years in areas of finance and digital technology.
-                    I do this by habitual reading and strive to be a part of a learning environment.
+                    My goal is to continue to upskill my competencies over the next few years in areas of finance and technology.
+                    I do this by habitual reading.
                   </p>
                   <p className="f5 ma1 pa2">
-                    Outside of my day job, I continue exploring new digital technologies. <br />
                     The following areas are my key <strong>skills and competencies</strong>:
                     <ol>
                       <li>Analytics and Dashboards with Tableau and Power BI</li>
