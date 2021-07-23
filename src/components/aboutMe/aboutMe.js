@@ -31,10 +31,6 @@ const aboutMe = () => {
                     positive outcomes and favourable responses from my stakeholders.
                   </p>
                   <p className="f5 ma1 pa2">
-                    My goal is to continue to upskill my competencies over the next few years in areas of finance and technology.
-                    I do this by habitual reading.
-                  </p>
-                  <p className="f5 ma1 pa2">
                     The following areas are my key <strong>skills and competencies</strong>:
                     <ol>
                       <li>Analytics and Dashboards with Tableau and Power BI</li>
