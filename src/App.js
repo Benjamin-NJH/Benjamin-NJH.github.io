@@ -27,6 +27,7 @@ class App extends Component {
     }
   }
 
+  /* This section is for WIP */
   onClick = (evt) => {
     alert("Hi there! I am working on this section and it is temporarily unavailable.")
   }
@@ -38,6 +39,7 @@ class App extends Component {
     document.querySelector("#hobbies").addEventListener('click', this.onClick);
     document.querySelector("#youtube").addEventListener('click', this.onClick);
   }
+  /* --------------------------------------------------------------------------------------- */
   
   render() {
     return (

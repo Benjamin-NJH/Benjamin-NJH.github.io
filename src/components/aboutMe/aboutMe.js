@@ -17,27 +17,27 @@ const aboutMe = () => {
                   <hr className="w-40 ml2 mr0 mv0"></hr>
                   <p className="bodoni f3 tl mt0 ml0 mb2 mr0 pa2">I'm Benjamin</p>
                   <p className="f5 ma1 pa2">
-                    I hold a Bachelor degree in Business Accoutancy and a diploma in Digital Media. <br />
-                    I create digital contents as a hobby, mainly working with Excel and automation programs. <br /> 
-                    I am a self-taught person and a generalist who constantly seeks to improve my craft.
+                    I began my career in the tourism industry where I worked as an operations coordinator for 3 years.
+                    During my time there, I learned to write VBA scripts and automate multiple macro programs.
+                    I moved on to do operations accounting for the next 5 years and gained further exposure in processing transactions, automating operational journals 
+                    and forms, and managing a SharePoint repository.
+                    I began applying problem-solving skills at work and have achieved success in resolving various complex issues.
+                    In the last year, I have embarked a digital role in finance and I am heavily involved in cost allocation, automation and data analytics.
+                    My greatest job satisfaction is that I am able to create positive outcomes and favourable responses from my stakeholders through my skills and efforts.
                   </p>
                   <p className="f5 ma1 pa2">
-                    I began my career in a tourism organization where I worked as an operations coordinator for 3 years.
-                    In the last 5 years, I have been doing operations accounting and have work experience 
-                    in managing the function of both accounts payables and receivables.
-                    In the course of work, I have a good track record in processing transactions, 
-                    investigating complex issues, and preparing timely and accurate reports. 
-                    I have also contributed to various process efficiencies projects and achieved
-                    positive outcomes and favourable responses from my stakeholders.
+                    Education: Bachelor degree in Business Accoutancy; Diploma in Digital Media. <br />
+                    Favourites: Automating with Excel VBA, RPA (UiPath), Python, Shell and Power Automate. <br /> 
+                    Hobbies: Creating video contents and developing mini-games with C++.
                   </p>
                   <p className="f5 ma1 pa2">
-                    The following areas are my key <strong>skills and competencies</strong>:
+                    The following tools are my known <strong>competencies</strong>:
                     <ol>
-                      <li>Analytics and Dashboards with Tableau and Power BI</li>
-                      <li>Finance and Accounting with SAP ECC6.0/SAP S/4 Hana and SharePoint</li>
-                      <li>Automation with Python, MS-VBA and UIPath(RPA)</li>
-                      <li>Web Development with HTML5, CSS3, ECMAScript, React, Node, Express, PostgreSQL</li>
-                      <li>Videography/Video editing with Adobe Premiere Pro</li>
+                      <li>Analytics: Power BI, Tableau, Visio, PowerPoint, Excel</li>
+                      <li>ERP and web-tools: SAP ECC6.0/SAP S/4 Hana, Workday, SharePoint, COUPA</li>
+                      <li>Automation: UiPath, VBA, Python, Power Automate</li>
+                      <li>Web Development: HTML5, CSS3, ECMAScript, React, Node, Express, PostgreSQL</li>
+                      <li>Video editing: Adobe Premiere Pro</li>
                     </ol> 
                   </p>
                   <p className="f5 ma1 pa2">
