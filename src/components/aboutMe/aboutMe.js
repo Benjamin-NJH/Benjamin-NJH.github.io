@@ -41,7 +41,7 @@ const aboutMe = () => {
                     </ol> 
                   </p>
                   <p className="f5 ma1 pa2">
-                    You may contact me via e-mail. I would be most delighted to have a chat.
+                    I can be contacted via the e-mail icon below.
                   </p>
 
                 </div>
