@@ -23,7 +23,7 @@ const aboutMe = () => {
                     and forms, and managing a SharePoint repository.
                     I began applying problem-solving skills at work and have achieved success in resolving various complex issues.
                     In the last year, I have embarked a digital role in finance and I am heavily involved in cost allocation, automation and data analytics.
-                    My greatest job satisfaction is that I am able to create positive outcomes and favourable responses from my stakeholders through my skills and efforts.
+                    My greatest job satisfaction is that I am able to create positive outcomes through my skills and competencies.
                   </p>
                   <p className="f5 ma1 pa2">
                     Education: Bachelor degree in Business Accoutancy; Diploma in Digital Media. <br />
@@ -32,16 +32,16 @@ const aboutMe = () => {
                   </p>
                   <p className="f5 ma1 pa2">
                     The following tools are my known <strong>competencies</strong>:
-                    <ol>
+                    <ul>
                       <li>Analytics: Power BI, Tableau, Visio, PowerPoint, Excel</li>
                       <li>ERP and web-tools: SAP ECC6.0/SAP S/4 Hana, Workday, SharePoint, COUPA</li>
                       <li>Automation: UiPath, VBA, Python, Power Automate</li>
                       <li>Web Development: HTML5, CSS3, ECMAScript, React, Node, Express, PostgreSQL</li>
                       <li>Video editing: Adobe Premiere Pro</li>
-                    </ol> 
+                    </ul> 
                   </p>
                   <p className="f5 ma1 pa2">
-                    I can be contacted via the e-mail icon below.
+                    You can reach out to me via the e-mail icon at the bottom page.
                   </p>
 
                 </div>
