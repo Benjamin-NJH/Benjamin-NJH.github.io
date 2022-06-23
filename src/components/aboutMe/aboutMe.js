@@ -41,7 +41,7 @@ const aboutMe = () => {
                     </ul> 
                   </p>
                   <p className="f5 ma1 pa2">
-                    You can reach out to me via the e-mail icon at the bottom page.
+                    You can reach out to me via the e-mail icon at the end of the page.
                   </p>
 
                 </div>
