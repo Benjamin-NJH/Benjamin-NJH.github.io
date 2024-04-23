@@ -33,11 +33,14 @@ const aboutMe = () => {
                   <p className="f5 ma1 pa2">
                     The following tools are my known <strong>competencies</strong>:
                     <ul>
-                      <li>Analytics: Power BI, Tableau, Visio, PowerPoint, Excel</li>
+                      <li>Financial Analysis and Visualization: Power BI, Tableau, Visio, PowerPoint, Excel</li>
                       <li>ERP and web-tools: SAP ECC6.0/SAP S/4 Hana, Workday, SharePoint, COUPA</li>
-                      <li>Automation: UiPath, VBA, Python, Power Automate</li>
-                      <li>Web Development: HTML5, CSS3, ECMAScript, React, Node, Express, PostgreSQL</li>
-                      <li>Video editing: Adobe Premiere Pro</li>
+                      <li>Automation (self-learn): UiPath, VBA, Python, Power Automate</li>
+                      <li>Web Development (self-learn): HTML5, CSS3, ECMAScript, React, Node, Express, PostgreSQL</li>
+                      <li>Data Analysis packages (self-learn): numpy, pandas, matplotlib, seaborn, plotly/cufflinks</li>
+                      <li>Machine Learning packages (self-learn): scikit-learn, nltk, NVIDIA Deep Learning, Keras, TensorFlow, PyTorch</li>
+                      <li>Video editing (Hobbies): Adobe Premiere Pro, Vegas Pro</li>
+                      <li>Game Development (Hobbies): Unity, C++, HTML5 Canvas and JavaScript</li>
                     </ul> 
                   </p>
                   <p className="f5 ma1 pa2">
